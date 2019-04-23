@@ -10,7 +10,7 @@ words: "I,You,He,She,It"
 
  ---
 spring:
-  profiles: "verb"
+  profiles: "lab-4-verb"
 words: ran,knew,had,saw,bought
 
 
