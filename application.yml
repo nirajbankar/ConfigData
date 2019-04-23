@@ -5,29 +5,29 @@ eureka:
       
 ---
 spring:
-  profiles: "subject"
-words: "I,You,He,She,It"
+  profiles: subject
+words: I,You,He,She,It
 
  ---
 spring:
-  profiles: "lab-4-verb"
+  profiles: lab-4-verb
 words: ran,knew,had,saw,bought
 
 
  ---
 spring:
-  profiles: "article"
-words: "a,the"
+  profiles: article
+words: a,the
 
  ---
 spring:
-  profiles: "adjective"
-words: "reasonable,leaky,suspicious,ordinary,unlikely"
+  profiles: adjective
+words: reasonable,leaky,suspicious,ordinary,unlikely
 
 
  ---
 spring:
-  profiles: "noun"
-words: "boat,book,vote,seat,backpack,partition,groundhog"
+  profiles: noun
+words: boat,book,vote,seat,backpack,partition,groundhog
       
   
